@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<!--
-**luiz-hms/luiz-hms** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 ![Computador iuriCode](https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png)
 
 Faça uma breve aprensentação sua com o seu nome e não esqueça a **Sua área**.  
