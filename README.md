@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, Sou o luiz henrique</h1>
-<h3 align="center">desenvolvedor front end e mobile com dominio em flutter, react native, react, nextjs e conhecimentos em UX/UI</h3>
+<h3 align="center">desenvolvedor mobile com dominio em flutter, react native , banco de dados e conhecimentos em .net, react, nextjs e UX/UI</h3>
 
 - 📫 com ochegar até mim **luiz.henriquems@hotmail.com**
 
